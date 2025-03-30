@@ -1,0 +1,19 @@
+* {
+  padding: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 15rem;
+  margin-bottom: 5rem;
+}
+
+.flex-player {
+  display: flex;
+  justify-content: center;
+}
+.flex-dice {
+  display: flex;
+  justify-content: center;
+}
