@@ -1,29 +1,44 @@
 * {
   padding: center;
 }
-
+body {
+  background-color: #8ecae6;
+}
 h1 {
   display: flex;
   justify-content: center;
-  margin-top: 10rem;
+  margin-top: 5rem;
   margin-bottom: 5rem;
+  font-family: "Bytesized", sans-serif;
+  font-size: 10rem;
+  color: #fb8500;
 }
 
 .flex-player {
   display: flex;
   justify-content: center;
-  gap: 300px;
+  gap: 400px;
   margin-bottom: 2rem;
+  font-family: "Bytesized", sans-serif;
+  font-size: 3rem;
+  color: #ffb703;
 }
 .flex-dice {
   display: flex;
   justify-content: center;
-  gap: 100px;
+  gap: 300px;
   margin-bottom: 5rem;
 }
 
+img {
+  width: 300px;
+  height: 300px;
+}
+
 footer {
-  background-color: aqua;
-  text-align: center;
+  background-color: #8ecae6;
   padding: 10px;
+  text-align: center;
+  color: #fb8500;
+  font-family: "Bytesized", sans-serif;
 }
