@@ -7,7 +7,7 @@ body {
 h1 {
   display: flex;
   justify-content: center;
-  margin-top: 5rem;
+  margin-top: 3rem;
   margin-bottom: 5rem;
   font-family: "Bytesized", sans-serif;
   font-size: 10rem;
